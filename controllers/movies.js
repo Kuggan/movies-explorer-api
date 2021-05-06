@@ -1,5 +1,5 @@
 const Movie = require('../models/movie');
-const BadRequestErr = require('../errors/bad-request-error');
+const BadRequestErr = require('../errors/bad-reques-error');
 const NotFoundError = require('../errors/not-found-error');
 const ForbiddenErr = require('../errors/forbidden-error');
 const { invalidDataErrorText, movieIdNotFoundErrorText, forbiddenErrorText } = require('../errors/texts-errors');
