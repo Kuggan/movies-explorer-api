@@ -11,7 +11,7 @@ const {
   JWT_SECRET,
   PORT = 3000,
   DB_ADDRESS,
-} = process.env;
+} = process.env.NODE_ENV !== 'production';
 
 const KEY = NODE_ENV === 'production' ? JWT_SECRET : 'dev-secret';
 
