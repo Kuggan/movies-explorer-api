@@ -1,5 +1,5 @@
 # movies-explorer-api
-Repository API the project Movies Explorer has auth and sighin 
+Repository API the project Movies Explorer has auth and sighin users and some operation with movies cards.
 
 ### Обзор
 * [Описание](#description)
