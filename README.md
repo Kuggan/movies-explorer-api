@@ -1,22 +1,22 @@
 # movies-explorer-api
 Repository API the project Movies Explorer has auth and sighin users and some operation with movies cards.
 
-### Обзор
-* [Описание](#description)
-* [Запуск проекта](#start)
-* [Технологии](#technologies)
+### Overall
+* [Description](#description)
+* [Start project](#start)
+* [Technologies](#technologies)
 
-#### <a name="description">Описание</a>
-Проект Movies Explorer выполненн на Node.js, Mongodb и Express.
+#### <a name="description">Description</a>
+Project Movies Explorer is done on Node.js, Mongodb и Express.
 * IP-адрес сервера : 130.193.37.101
 * URL API https://api.moviessearch.kuggan.nomoredomains.icu/
-* [Ссылка на фронтенд репозиторий](https://github.com/Kuggan/movies-explorer-frontend)
-* [Ссылка на full проект]()
+* [Link on frontend repository](https://github.com/Kuggan/movies-explorer-frontend)
+* [Link full on project]()
 
-#### <a name="start">Запуск проекта</a>
-* [Ссылка]()
+#### <a name="start">Start project</a>
+* [Link]()
 
-#### <a name="technologies">Технологии</a>
+#### <a name="technologies">Technologies</a>
 * Javascript.
 * Node
 * Express
@@ -24,11 +24,5 @@ Repository API the project Movies Explorer has auth and sighin users and some op
 * MongoDB
 * Mongoose
 * REST 
-  * Клиент-сервер
-  * Отсутствие состояния 
-  * Единый интерфейс
-  * Многоуровневость
-  * Кешируемость
-  * Код по запросу
 * Nginx
 * Celebrate/Joi
