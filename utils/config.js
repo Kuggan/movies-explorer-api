@@ -25,7 +25,9 @@ const DB_OPTIONS = {
 };
 
 const CORS_OPTIONS = {
-  origin: ['http://localhost:3000'],
+  origin: [
+    'http://localhost:3001',
+    'https://moviessearch.kuggan.nomoredomains.icu'],
   credentials: true,
 };
 
